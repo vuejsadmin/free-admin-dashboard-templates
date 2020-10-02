@@ -8,4 +8,4 @@ Please send a pull request if you have any additions or changes. Pull requests w
 
 Name | Links | Tags
 ------------ | ------- | -------
-Basix | [jeweltheme/basix-admin](https://github.com/jeweltheme/basix-admin) | _vue.js_
+Basix | [jeweltheme/basix-admin](https://github.com/jeweltheme/basix-admin) | _vue.js_ _bootstrap_
