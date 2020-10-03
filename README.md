@@ -9,16 +9,16 @@ Please send a pull request if you have any additions or changes. Pull requests w
 
 Name | Links | Demo    | Tags
 ------------ | ------- | ------- | -------
-Vue2 Admin LTE | [vuejsadmin/vue2-admin-lte](https://github.com/vuejsadmin/vue2-admin-lte) | [View Demo](https://vuejsadmin.com/product/vue2-admin-lte/) | _vue.js_, _bootstrap_
-Basix Admin | [jeweltheme/basix-admin](https://github.com/vuejsadmin/basix-admin) | [View Demo](https://vuejsadmin.com/product/basix-admin/) | _vue.js_, _bootstrap_
-Arbano | [litonarefin/arbano](https://github.com/litonarefin/arbano) | [View Demo](https://vuejsadmin.com/product/arbano/) | _vue.js_, _bootstrap_
-Vuestic Admin | [vuejsadmin/vuestic-admin](https://github.com/vuejsadmin/vuestic-admin) | [View Demo](https://vuejsadmin.com/product/vuestic/) | _vue.js_
-Vue Element Admin | [vuejsadmin/vuestic-admin](https://github.com/vuejsadmin/vue-element-admin) | [View Demo](https://vuejsadmin.com/product/vue-element-admin/) | _vue.js_
-Star Admin | [vuejsadmin/staradmin-vuejs](https://github.com/vuejsadmin/staradmin-vuejs) | [View Demo](https://vuejsadmin.com/product/star-admin/) | _vue.js_, _bootstrap4_
-Vue Material Admin | [litonarefin/electron-vue-admin](https://github.com/litonarefin/electron-vue-admin) | [View Demo](https://vuejsadmin.com/product/electron/) | _vue.js_
-Quasar Admin | [vuejsadmin/quasar-admin](https://github.com/vuejsadmin/quasar-admin) | [View Demo](https://vuejsadmin.com/product/quasar-admin-app/) | _vue.js_
-Vue Paper Dashboard | [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) | [View Demo](https://www.creative-tim.com/product/paper-dashboard) | _vuejs_
-Adminify | [wxs77577/adminify](https://github.com/topfullstack/adminify) | [View Demo](#) | _vuejs_ _vuetify_ _material-design_
+Vue2 Admin LTE | [vuejsadmin/vue2-admin-lte](https://github.com/vuejsadmin/vue2-admin-lte) | [Demo](https://vuejsadmin.com/product/vue2-admin-lte/) | _vue.js_, _bootstrap_
+Basix Admin | [jeweltheme/basix-admin](https://github.com/vuejsadmin/basix-admin) | [Demo](https://vuejsadmin.com/product/basix-admin/) | _vue.js_, _bootstrap_
+Arbano | [litonarefin/arbano](https://github.com/litonarefin/arbano) | [Demo](https://vuejsadmin.com/product/arbano/) | _vue.js_, _bootstrap_
+Vuestic Admin | [vuejsadmin/vuestic-admin](https://github.com/vuejsadmin/vuestic-admin) | [Demo](https://vuejsadmin.com/product/vuestic/) | _vue.js_
+Vue Element Admin | [vuejsadmin/vuestic-admin](https://github.com/vuejsadmin/vue-element-admin) | [Demo](https://vuejsadmin.com/product/vue-element-admin/) | _vue.js_
+Star Admin | [vuejsadmin/staradmin-vuejs](https://github.com/vuejsadmin/staradmin-vuejs) | [Demo](https://vuejsadmin.com/product/star-admin/) | _vue.js_, _bootstrap4_
+Vue Material Admin | [litonarefin/electron-vue-admin](https://github.com/litonarefin/electron-vue-admin) | [Demo](https://vuejsadmin.com/product/electron/) | _vue.js_
+Quasar Admin | [vuejsadmin/quasar-admin](https://github.com/vuejsadmin/quasar-admin) | [Demo](https://vuejsadmin.com/product/quasar-admin-app/) | _vue.js_
+Vue Paper Dashboard | [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) | [Demo](https://www.creative-tim.com/product/paper-dashboard) | _vuejs_
+Adminify | [wxs77577/adminify](https://github.com/topfullstack/adminify) | [Demo](#) | _vuejs_ _vuetify_ _material-design_
 
 
 ### Free dashboards list for you to use in your projects
