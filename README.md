@@ -6,6 +6,8 @@ Please send a pull request if you have any additions or changes. Pull requests w
 
 ### Free VueJS Admin Dashboards list for you to use in your projects
 
-Name | Links | Tags
+
+Name | Links | Demo    | Tags
 ------------ | ------- | -------
-Basix | [jeweltheme/basix-admin](https://github.com/jeweltheme/basix-admin) | _vue.js_ _bootstrap_
+Basix Admin | [jeweltheme/basix-admin](https://github.com/vuejsadmin/basix-admin) | [Online Demo](https://vuejsadmin.com/product/basix-admin/) | _vue.js_, _bootstrap_
+Arbano | [litonarefin/arbano](https://github.com/litonarefin/arbano) | [Online Demo](https://vuejsadmin.com/product/arbano/) | _vue.js_, _bootstrap_
