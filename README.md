@@ -14,7 +14,7 @@ Basix Admin | [jeweltheme/basix-admin](https://github.com/vuejsadmin/basix-admin
 Arbano | [litonarefin/arbano](https://github.com/litonarefin/arbano) | [View Demo](https://vuejsadmin.com/product/arbano/) | _vue.js_, _bootstrap_
 Vuestic Admin | [vuejsadmin/vuestic-admin](https://github.com/vuejsadmin/vuestic-admin) | [View Demo](https://vuejsadmin.com/product/vuestic/) | _vue.js_
 Vue Element Admin | [vuejsadmin/vuestic-admin](https://github.com/vuejsadmin/vue-element-admin) | [View Demo](https://vuejsadmin.com/product/vue-element-admin/) | _vue.js_
-Star Admin | [vuejsadmin/StarAdmin-Free-Vue-Admin-Template](https://github.com/vuejsadmin/StarAdmin-Free-Vue-Admin-Template) | [View Demo](https://vuejsadmin.com/product/star-admin/) | _vue.js_, _bootstrap4_
+Star Admin | [vuejsadmin/staradmin-vuejs](https://github.com/vuejsadmin/staradmin-vuejs) | [View Demo](https://vuejsadmin.com/product/star-admin/) | _vue.js_, _bootstrap4_
 Vue Material Admin | [litonarefin/electron-vue-admin](https://github.com/litonarefin/electron-vue-admin) | [View Demo](https://vuejsadmin.com/product/electron/) | _vue.js_
 Quasar Admin | [vuejsadmin/quasar-admin](https://github.com/vuejsadmin/quasar-admin) | [View Demo](https://vuejsadmin.com/product/quasar-admin-app/) | _vue.js_
 Vue Paper Dashboard | [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) | [View Demo](https://www.creative-tim.com/product/paper-dashboard) | _vuejs_
