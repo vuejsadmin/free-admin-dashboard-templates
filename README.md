@@ -11,3 +11,5 @@ Name | Links | Demo    | Tags
 ------------ | ------- | ------- | -------
 Basix Admin | [jeweltheme/basix-admin](https://github.com/vuejsadmin/basix-admin) | [View Demo](https://vuejsadmin.com/product/basix-admin/) | _vue.js_, _bootstrap_
 Arbano | [litonarefin/arbano](https://github.com/litonarefin/arbano) | [View Demo](https://vuejsadmin.com/product/arbano/) | _vue.js_, _bootstrap_
+
+Vue2 Admin LTE | [vuejsadmin/vue2-admin-lte](https://github.com/vuejsadmin/vue2-admin-lte) | [View Demo](https://vuejsadmin.com/product/vue2-admin-lte/) | _vue.js_, _bootstrap_
